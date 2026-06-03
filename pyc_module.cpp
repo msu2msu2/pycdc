@@ -197,7 +197,7 @@ bool PycModule::isSupportedVersion(int major, int minor)
     case 2:
         return (minor >= 0 && minor <= 7);
     case 3:
-        return (minor >= 0 && minor <= 12);
+        return (minor >= 0 && minor <= 13);
     default:
         return false;
     }

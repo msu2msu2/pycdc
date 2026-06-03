@@ -46,9 +46,7 @@ lj . append ( lk ) <EOL>
 <OUTDENT>
 l . append ( lj ) <EOL>
 <OUTDENT>
-i = 1 <EOL>
-j = 1 <EOL>
-k = 1 <EOL>
+i = j = k = 1 <EOL>
 def f ( ) : <EOL>
 <INDENT>
 global i <EOL>
